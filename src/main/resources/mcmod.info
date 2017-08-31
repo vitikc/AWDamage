@@ -1,0 +1,16 @@
+[
+{
+  "modid": "AWDamage",
+  "name": "AWDamage mod",
+  "description": "Adds evasions, critical hits and parrying",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Vitikc"],
+  "credits": "Created by Vitikc",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
